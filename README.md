@@ -1,9 +1,10 @@
 # NASA DEVELOP – Wildfire Risk Assessment (Córdoba, Argentina)
 
 ## Project Overview
-NASA DEVELOP project analyzing wildfire risk in Córdoba, Argentina using Terra/Aqua MODIS, GPM IMERG, SMAP, SRTM, ArcGIS Pro, GEE, and Python.
 
-## Featured Output
+Córdoba, Argentina has experienced increasingly severe wildfires in recent years, burning more than 300,000 hectares in 2020 alone. I evaluated the feasibility of using NASA Earth Observations (soil moisture, temperature, vegetation, and terrain) to identify key drivers of wildfire occurrence in the region. Using logistic regression and random forest modeling, I produced a wildfire probability map and found NDVI and precipitation to be the strongest predictors for the 2020 fire season. I applied multi-sensor NASA EO data to support the Instituto Nacional de Tecnología Agropecuaria (INTA) in improving wildfire risk assessment and informing future mitigation strategies.
+
+## Featured Map
 
 ## Data Sources
 
