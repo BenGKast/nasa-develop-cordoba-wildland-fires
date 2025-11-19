@@ -6,7 +6,7 @@ Córdoba, Argentina has experienced increasingly severe wildfires in recent year
 
 ## Featured Map
 
-![Wildfire Risk Map of Córdoba]("assets/maps/Fire_Risk_Map_Sep_2020.png")
+![Wildfire Risk Map of Córdoba](assets/maps/Fire_Risk_Map_Sep_2020.png)
 *Caption: Final wildfire risk map, developed using random forest. The darker areas indicate a higher probability of wildfires while the lighter areas show a lower probability.*
 
 ## Data Sources
