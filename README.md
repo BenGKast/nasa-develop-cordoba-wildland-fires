@@ -11,10 +11,10 @@ Córdoba, Argentina has experienced increasingly severe wildfires in recent year
 
 ## Data Sources
 
-- **MODIS (Terra/Aqua)** - Burned Area Product, Land Surface Temperature (LST), Evapotranspiration (ET), & Normalized Difference Vegetation Index (NDVI)
-- **GPM IMERG** - Precipitation
-- **SMAP** - Soil Moisture
-- **SRTM** - Elevation & Slope
+- **[MODIS (Terra/Aqua)](https://modis.gsfc.nasa.gov/)** - Burned Area Product, Land Surface Temperature (LST), Evapotranspiration (ET), & Normalized Difference Vegetation Index (NDVI)
+- **[GPM IMERG](https://gpm.nasa.gov/data/imerg)** - Precipitation
+- **[SMAP](https://smap.jpl.nasa.gov/)** - Soil Moisture
+- **[SRTM](https://www.earthdata.nasa.gov/data/instruments/srtm)** - Elevation & Slope
 - **Spatial Analysis for Conservation and Sustainability lab (University of Wisconsin-Madison)** - WUI Mapping
 
 ## Methods and Workflow
