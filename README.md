@@ -19,6 +19,10 @@ Córdoba, Argentina has experienced increasingly severe wildfires in recent year
 
 ## Methods and Workflow
 
+### Data Processing
+
+### Data Analysis
+
 ## Key Results
 
 ## Deliverables
