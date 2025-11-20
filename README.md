@@ -11,11 +11,11 @@ Córdoba, Argentina has experienced increasingly severe wildfires in recent year
 
 ## Data Sources
 
-- **[MODIS (Terra/Aqua)](https://modis.gsfc.nasa.gov/)** - Burned Area Product, Land Surface Temperature (LST), Evapotranspiration (ET), & Normalized Difference Vegetation Index (NDVI)
-- **[GPM IMERG](https://gpm.nasa.gov/data/imerg)** - Precipitation
-- **[SMAP](https://smap.jpl.nasa.gov/)** - Soil Moisture
-- **[SRTM](https://www.earthdata.nasa.gov/data/instruments/srtm)** - Elevation & Slope
-- **Spatial Analysis for Conservation and Sustainability lab (University of Wisconsin-Madison)** - WUI Mapping
+- **[MODIS (Terra/Aqua)](https://modis.gsfc.nasa.gov/)** — Burned Area Product, Land Surface Temperature (LST), Evapotranspiration (ET), and Normalized Difference Vegetation Index (NDVI)
+- **[GPM IMERG](https://gpm.nasa.gov/data/imerg)** — Precipitation (half-hourly and daily estimates)
+- **[SMAP](https://smap.jpl.nasa.gov/)** — Surface soil moisture
+- **[SRTM](https://www.earthdata.nasa.gov/data/instruments/srtm)** — Elevation and terrain derivatives (slope)
+- **[SILVIS Lab - University of Wisconsin-Madison)](https://silvis.forest.wisc.edu/)** — Wildland-Urban Interface (WUI) dataset
 
 ## Methods and Workflow
 
