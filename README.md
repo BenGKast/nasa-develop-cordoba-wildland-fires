@@ -19,13 +19,15 @@ Córdoba, Argentina has experienced increasingly severe wildfires in recent year
 
 ## Methods and Workflow
 
-### Data Processing
+### Data Acquisition and Preprocessing
 
-### Data Analysis
+### Feature Engineering & Analysis
+
+### Modeling Approach
+
+### Validation
 
 ## Key Results
-
-## Deliverables
 
 ## Repository Structure
 
@@ -34,4 +36,5 @@ Córdoba, Argentina has experienced increasingly severe wildfires in recent year
 ## Credits
 
 ## Legal Notice
+
 NASA DEVELOP deliverables included in this repository are provided solely for portfolio and demonstration purposes. These materials remain the property of the NASA DEVELOP Program and partnering organizations. No re-licensing or redistribution is permitted.
