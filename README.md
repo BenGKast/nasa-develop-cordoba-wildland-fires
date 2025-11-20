@@ -15,7 +15,7 @@ Córdoba, Argentina has experienced increasingly severe wildfires in recent year
 - **[GPM IMERG](https://gpm.nasa.gov/data/imerg)** — Precipitation (half-hourly and daily estimates)
 - **[SMAP](https://smap.jpl.nasa.gov/)** — Surface soil moisture
 - **[SRTM](https://www.earthdata.nasa.gov/data/instruments/srtm)** — Elevation and terrain derivatives (slope)
-- **[SILVIS Lab - University of Wisconsin-Madison)](https://silvis.forest.wisc.edu/)** — Wildland-Urban Interface (WUI) dataset
+- **[SILVIS Lab - University of Wisconsin-Madison](https://silvis.forest.wisc.edu/)** — Wildland-Urban Interface (WUI) dataset
 
 ## Methods and Workflow
 
